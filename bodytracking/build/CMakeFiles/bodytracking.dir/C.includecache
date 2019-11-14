@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cy8182/yip/bodytracking/main.c
+stdio.h
+-
+stdlib.h
+-
+k4a/k4a.h
+-
+k4abt.h
+-
+
